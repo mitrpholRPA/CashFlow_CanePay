@@ -45,7 +45,7 @@
       "Name": "ListFacCode",
       "DisplayName": "ListFacCode",
       "Category": null,
-      "Tooltip": null,
+      "Tooltip": "{\"MP\",\"SB\",\"MPK\",\"MPV\",\"MPL\",\"MKS\",\"MKS2\",\"MPG\"}",
       "Placeholder": null,
       "Widget": null,
       "IsRequired": false,
